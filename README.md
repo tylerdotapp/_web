@@ -1,2 +1,3 @@
-# Repository for _tylerdotapp/web/_
-used for https://tylerdotapp.github.io/web/
+# _tylerdotapp/web/_
+> [!NOTE]
+> This repository is used for https://tylerdotapp.github.io/web/
